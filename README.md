@@ -104,39 +104,6 @@ Welcome to the AI Recipe Generator, a Python-based application that harnesses th
 Make sure you have Python 3.x installed on your system.
 
 
-
-\### Installation
-
-
-
-1\. Clone the repository:
-
-
-
-&#x20;  \`\`\`bash
-
-&#x20;  git clone [https://github.com/dom557/ai-recipe-generator.git](https://github.com/dom557/ai-recipe-generator.git)
-
-&#x20;  cd ai-recipe-generator
-
-&#x20;  \`\`\`
-
-2\. Run the application:
-
-
-
-&#x20;  \`\`\`bash
-
-&#x20;  python main.py
-
-&#x20;  \`\`\`
-
-
-
-\## Usage
-
-
-
 1\. Choose your preferences, such as cuisine, dietary restrictions, and ingredients.
 
 2\. Click on the "Generate Recipe" button.
