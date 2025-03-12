@@ -36,19 +36,19 @@ AI-recipe-generator/
 
 ## 🔧 Installation
 
-1. **Clone the repository**:
+1 **Clone the repository**:
    ```bash
    git clone https://github.com/mayankunwar23/AI-recipe-generator.git
    ```
-2. **Navigate to the project directory**:
+2 **Navigate to the project directory**:
    ```bash
    cd AI-recipe-generator
    ```
-3. **Install dependencies**:
+3 **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
-4. **Run the application**:
+4 **Run the application**:
    ```bash
    python main.py
    ```
